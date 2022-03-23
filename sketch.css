@@ -6,3 +6,25 @@ html, body {
 canvas {
     display: block;
 }
+
+#info {
+    position: fixed;
+    bottom: 0;
+    width: 98%;
+    margin: 0;
+    padding: 10px;
+    text-align: right;
+    color: white;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+a {
+    color: white;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
