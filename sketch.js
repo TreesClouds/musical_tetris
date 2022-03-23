@@ -1,4 +1,4 @@
-class Tetromino {
+class Tetromino { 
     constructor(type) {
         this.solid = false;
         this.active = false;
